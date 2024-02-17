@@ -1,0 +1,42 @@
+{
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "objTiro02",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+  ],
+  "managed": true,
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"parProjetil","path":"objects/parProjetil/parProjetil.yy",},"propertyId":{"name":"potencia","path":"objects/parProjetil/parProjetil.yy",},"value":"5",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"parProjetil","path":"objects/parProjetil/parProjetil.yy",},"propertyId":{"name":"somProjetil","path":"objects/parProjetil/parProjetil.yy",},"value":"sfxTiro02",},
+  ],
+  "parent": {
+    "name": "Projéteis",
+    "path": "folders/Objetos/Fase/Projéteis.yy",
+  },
+  "parentObjectId": {
+    "name": "parProjetil",
+    "path": "objects/parProjetil/parProjetil.yy",
+  },
+  "persistent": false,
+  "physicsAngularDamping": 0.1,
+  "physicsDensity": 0.5,
+  "physicsFriction": 0.2,
+  "physicsGroup": 1,
+  "physicsKinematic": false,
+  "physicsLinearDamping": 0.1,
+  "physicsObject": false,
+  "physicsRestitution": 0.1,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsShapePoints": [],
+  "physicsStartAwake": true,
+  "properties": [],
+  "solid": false,
+  "spriteId": {
+    "name": "sprTiro02",
+    "path": "sprites/sprTiro02/sprTiro02.yy",
+  },
+  "spriteMaskId": null,
+  "visible": true,
+}

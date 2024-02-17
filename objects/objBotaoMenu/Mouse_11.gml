@@ -1,0 +1,1 @@
+estadoBotao = 0;
